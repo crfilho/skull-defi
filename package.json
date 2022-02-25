@@ -1,0 +1,22 @@
+{
+  "name": "skull-defi",
+  "version": "1.0.0",
+  "description": "skull-defi stake ETH receive LOSS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crfilho/skull-defi.git"
+  },
+  "author": "Carlos Santilli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crfilho/skull-defi/issues"
+  },
+  "homepage": "https://github.com/crfilho/skull-defi#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
